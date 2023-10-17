@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp7685920.jpg" width="300" height="230"/>
+  <img src="https://yash-1708.github.io/images/work.jpg" width="300" height="230"/>
 </div>
 
 # CHARANJIT SINGH 🚀 Data Scientist | MSCS Candidate
