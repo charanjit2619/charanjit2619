@@ -4,7 +4,7 @@
 
 # CHARANJIT SINGH 🚀 Data Scientist | MSCS Candidate
 📍 Location: Clemson, SC, USA
-🔗 LinkedIn: [https://www.linkedin.com/in/-charanjit-singh]
+🔗 LinkedIn: https://www.linkedin.com/in/-charanjit-singh
 💼 GitHub: charanjit2619
 📩 Email: charans@g.clemson.edu
 
@@ -25,11 +25,7 @@ Hey there! I'm Charanjit, an enthusiastic MSCS Candidate from Clemson University
 **Continuous Affect Recognition**: Deep learning model predicting emotional metrics in videos through joint training of audio and video features.<br>
 **Engine Fault Diagnosis Prediction**: Presented a 1D CNN model for engine fault diagnosis to achieve a diagnostic accuracy of ~92% which provided savings opportunity of more than $1M.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_singh_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parampreetsingh12598) 
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,matlab,mysql,mongodb,github,py,r,c,git,tensorflow,pytorch,vim,vscode,sqlite)](https://skillicons.dev)
 ---
-[![](https://visitcount.itsvg.in/api?id=jarvis-47&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=charanjit2619&icon=0&color=0)](https://visitcount.itsvg.in)
