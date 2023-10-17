@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/jarvis-47/jarvis-47/blob/main/DisplayPic.png?raw=true" width="300" height="230"/>
+</div>
 
-<!--
-**charanjit2619/charanjit2619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CHARANJIT SINGH 🚀 Data Scientist | MSCS Candidate
+📍 Location: Clemson, SC, USA
+🔗 LinkedIn: [https://www.linkedin.com/in/-charanjit-singh]
+💼 GitHub: charanjit2619
+📩 Email: charans@g.clemson.edu
 
-Here are some ideas to get you started:
+## 🔍 Overview
+Hey there! I'm Charanjit, an enthusiastic MSCS Candidate from Clemson University with a burning passion for machine learning and data analytics. Armed with diverse tech stacks and a knack for converting raw data into informed strategies, I thrive on solving challenges and pushing the boundaries of what's possible. Looking to harness the power of data to innovate and revolutionize the digital landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Clemson University**: Pursuing Master's in Computer Science with a keen focus on Statistics, Machine Learning and Artificial Intelligence.<br>
+**Punjab Engineering College**: B.Tech in Mechanical Engineering. Led capstone project on Multi-Sensor Fusion for Adaptive Cruise Control.<br>
+
+## 💼 Professional Experience
+**Graduate Research Assistant at Clemson University**: Led the development of a sensor-based AR surgical training system which estimates a surgeon's cognitive load using LSTM RNN.<br>
+**Research Engineer, R&D at Honda**: Conducted market research, competitor analysis, and Quality Function deployment. Also managed testing datasets for performance and benchmarking insights.<br>
+**Research Intern at Mahindra Research Valley**: Innovated in power loss distribution in automotive rear axles, achieving notable fuel efficiency gains.
+
+## 🚀 Highlighted Projects
+**Sensor-based AR Training System**: Engineered a real-time data acquisition pipeline coupled to an RNN LSTM model to estimate the surgeon's workload in order to provide AR guidance.<br>
+**Continuous Affect Recognition**: Deep learning model predicting emotional metrics in videos through joint training of audio and video features.<br>
+**Engine Fault Diagnosis Prediction**: Presented a 1D CNN model for engine fault diagnosis to achieve a diagnostic accuracy of ~92% which provided savings opportunity of more than $1M.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_singh_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parampreetsingh12598) 
+
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,matlab,mysql,mongodb,github,py,r,c,git,tensorflow,pytorch,vim,vscode,sqlite)](https://skillicons.dev)
+---
+[![](https://visitcount.itsvg.in/api?id=jarvis-47&icon=0&color=0)](https://visitcount.itsvg.in)
