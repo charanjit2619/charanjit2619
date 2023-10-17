@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yash-1708.github.io/images/work.jpg" width="1000" height="750"/>
+  <img src="https://yash-1708.github.io/images/work.jpg" width="1000" height="650"/>
 </div>
 
 # CHARANJIT SINGH 🚀 Data Scientist | MSCS Candidate
