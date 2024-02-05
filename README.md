@@ -7,6 +7,7 @@
 🔗 LinkedIn: https://www.linkedin.com/in/-charanjit-singh
 💼 GitHub: charanjit2619
 📩 Email: charans@g.clemson.edu
+Link to my portfolio: https://charanjit2619.github.io/Portfolio/
 
 ## 🔍 Overview
 Hey there! I'm Charanjit, an enthusiastic MSCS Candidate from Clemson University with a burning passion for machine learning and data analytics. Armed with diverse tech stacks and a knack for converting raw data into informed strategies, I thrive on solving challenges and pushing the boundaries of what's possible. Looking to harness the power of data to innovate and revolutionize the digital landscape.
